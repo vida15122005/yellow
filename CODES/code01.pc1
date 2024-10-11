@@ -1,1 +1,7 @@
+# powerShell code testing 
+# Estacio MACAPA 
+
+# Gathers PS current version 
+
+$PSVersionTable.PV
 
