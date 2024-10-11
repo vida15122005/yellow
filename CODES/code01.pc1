@@ -3,5 +3,7 @@
 
 # Gathers PS current version 
 
-$PSVersionTable.PV
+$PSVersionTable.PVersion
+
+Whit-host "final"
 
